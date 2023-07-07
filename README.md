@@ -1,24 +1,7 @@
 # sample-css-vue3
 
-## Project setup
-```
-yarn install
-```
+## CSS 转 Vue
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### 1. 动画倒计时 - 动画监控 @animationed
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 2. 拖拽动画 - drag 事件
