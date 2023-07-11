@@ -2,6 +2,7 @@
   <div class="home">
     <div><router-link to="/animation-coutdown">Animation CountDown</router-link></div>
     <div><router-link to="/drag-drop">Drag & Drop</router-link></div>
+    <div><router-link to="/background-slider">BackgroundSlider</router-link></div>
   </div>
 </template>
 

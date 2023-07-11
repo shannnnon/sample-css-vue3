@@ -16,6 +16,11 @@ const routes = [
     path: '/animation-coutdown',
     name: 'animation-coutdown',
     component: () => import('../views/AnimationCoutdown.vue')
+  },
+  {
+    path: '/background-slider',
+    name: 'background-slider',
+    component: () => import('../views/BackgroundSlider.vue')
   }
 ]
 
