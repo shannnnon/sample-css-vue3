@@ -21,6 +21,16 @@ const routes = [
     path: '/background-slider',
     name: 'background-slider',
     component: () => import('../views/BackgroundSlider.vue')
+  },
+  {
+    path: '/blurry-loading-img',
+    name: 'blurry-loading-img',
+    component: () => import('../views/BlurryLoadingImg.vue')
+  },
+  {
+    path: '/btn-ripple-effect',
+    name: 'btn-ripple-effect',
+    component: () => import('../views/BtnRippleEffect.vue')
   }
 ]
 

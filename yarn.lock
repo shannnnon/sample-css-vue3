@@ -3192,9 +3192,9 @@ eslint-plugin-promise@^5.1.0:
   resolved "https://registry.npmmirror.com/eslint-plugin-promise/-/eslint-plugin-promise-5.2.0.tgz#a596acc32981627eb36d9d75f9666ac1a4564971"
   integrity sha512-SftLb1pUG01QYq2A/hGAWfDRXqYD82zE7j7TopDOyNdU+7SvvoXREls/+PRTY17vUXzXnZA/zfnyKgRH6x4JJw==
 
-eslint-plugin-vue@^8.0.3:
+eslint-plugin-vue@^8.7.1:
   version "8.7.1"
-  resolved "https://registry.npmmirror.com/eslint-plugin-vue/-/eslint-plugin-vue-8.7.1.tgz#f13c53547a0c9d64588a675cc5ecc6ccaf63703f"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-8.7.1.tgz#f13c53547a0c9d64588a675cc5ecc6ccaf63703f"
   integrity sha512-28sbtm4l4cOzoO1LtzQPxfxhQABararUb1JtqusQqObJpWX2e/gmVyeYVfepizPFne0Q5cILkYGiBoV36L12Wg==
   dependencies:
     eslint-utils "^3.0.0"
@@ -6378,6 +6378,11 @@ vue-loader@^17.0.0:
     chalk "^4.1.0"
     hash-sum "^2.0.0"
     watchpack "^2.4.0"
+
+vue-progressive-image@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/vue-progressive-image/-/vue-progressive-image-4.0.0.tgz#dc74add192ee82a0238e67a17b85a2336aadcba5"
+  integrity sha512-ieLNX0q28Y8Oo4vsyi7vAtH9PzzpThiqk/IqO+jRbFE4xdM9ZYirhmRFfNnaxGSAhYWnQzY7z/BRTqupmpyKRQ==
 
 vue-router@^4.0.3:
   version "4.2.3"
